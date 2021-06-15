@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/banner.gif" />
+ 
   
   </div>
   .  
