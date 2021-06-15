@@ -5,15 +5,15 @@
  
   
   </div>
-  .  
+  
   <!--social media icon-->
 <div align="center">
  
  
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hackcoderr)
-[![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hackcoderr/)](https://www.linkedin.com/in/hackcoderr/) [![Twitter Badge](http://img.shields.io/badge/-@hackcoderr-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackcoderr)](https://twitter.com/hackcoderr) [![GitHub followers](https://img.shields.io/github/followers/hackcoderr?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/hackcoderr/)](https://www.instagram.com/hackcoderr/) 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hackcoderr.hackcoderr)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vaibhavbharti/)
+[![Linkedin Badge](https://www.linkedin.com/in/vaibhav-bharti/)] [![Twitter Badge](https://twitter.com/Vaibhav45870628)] [![GitHub followers](https://img.shields.io/github/followers/vaibhavbharti?label=Follow&style=social)](https://github.com/vaibhavbharti/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-vaibhavgurer-blue?style=social&logo=Instagram&link=https://www.instagram.com/vaibhavgurer/)](https://www.instagram.com/vaibhavgurer/) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vaibhavbharti.vaibhavbharti)
 
 </div>  
 
@@ -23,14 +23,14 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/vaibhavbharti/vaibhavbharti"> 
 </p>
   
 
 
 ## About Me ✍
  
- I m <b> Sachin Kumar</b>, a pursuing <b>Computer Science Engineer With Cloud Computing And IoT Security Technology</b> And Works For [<b>The Cyberzine Group</b>](http://thecyberzine.com/) under the mentorship of [<b>Dr. Preeti Mishra</b>](http://thecyberzine.com/founder.html). The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Vaibhav Bharti</b>, a pursuing <b>Computer Science Engineer With Cloud Computing And IoT Security Technology</b> And Works For [<b>The Cyberzine Group</b>](http://thecyberzine.com/) under the mentorship of [<b>Dr. Preeti Mishra</b>](http://thecyberzine.com/founder.html). The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
