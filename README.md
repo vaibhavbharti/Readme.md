@@ -1,179 +1,32 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Vaibhav Bharti 👨‍🎓
-
-<!--Header-->
-  <div>
- 
-  
-  </div>
-  
-  <!--social media icon-->
-<div align="center">
- 
- 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/vaibhavbharti/)
-[![Linkedin Badge](https://www.linkedin.com/in/vaibhav-bharti/)] [![Twitter Badge](https://twitter.com/Vaibhav45870628)] [![GitHub followers](https://img.shields.io/github/followers/vaibhavbharti?label=Follow&style=social)](https://github.com/vaibhavbharti/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-vaibhavgurer-blue?style=social&logo=Instagram&link=https://www.instagram.com/vaibhavgurer/)](https://www.instagram.com/vaibhavgurer/) 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vaibhavbharti.vaibhavbharti)
-
-</div>  
-
-</br>
+<h1 align="center">Hi 👋, I'm Vaibhav Bharti</h1>
+<h3 align="center">Enthusiastic Software Developer. I love reading, creating new stuff every day. Curiosity drives me. Always up for new challenges.</h3>
 
 
-<!--About Me-->
-<div>
- <p>
-  <img width="240" height="230" align='right' src="https://github.com/vaibhavbharti/vaibhavbharti"> 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavbharti" alt="vaibhavbharti" /></a> </p>
+
+
+- 👨‍💻 All of my projects are available at [github.com/vaibhavbharti](github.com/vaibhavbharti)
+
+- 📝 I regularly write articles on [https://medium.com/@vaibhavbharti/](https://medium.com/@vaibhavbharti)
+
+- 💬 Ask me about **DevOps, Cloud Computing, DS, Algo, Web Development**
+
+- 📫 How to reach me **vaibhavbharti4ever@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/vaibhavbharti/](https://www.linkedin.com/in/vaibhavbharti/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhavbharti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhavbharti" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/" alt="" /></a> </p>
 </p>
-  
+<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goyal-aman&show_icons=true&locale=en&layout=compact" alt="goyal-aman" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goyal-aman&show_icons=true&locale=en" alt="goyal-aman" /></p>
 
 
-## About Me ✍
- 
- I m <b> Vaibhav Bharti</b>, a pursuing <b>Computer Science Engineer With Cloud Computing And IoT Security Technology</b> And Works For [<b>The Cyberzine Group</b>](http://thecyberzine.com/) under the mentorship of [<b>Dr. Preeti Mishra</b>](http://thecyberzine.com/founder.html). The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
-
-
-</div>
-
-<!--technical skills-->
-
-## Technical Skills 🛠 
-
-<img align='left' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png' width="240" height="230" >
-
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-[![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
- ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
- ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
- ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
- ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
- ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
- ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
- [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
- [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
- [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
- [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
-![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
-
-
-
-
-
-
-
- <!--My Hobbies-->
- 
- 
-
-## My Hobbies ✍
-
-<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200"'>
- 
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
-##
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/hackcoderr">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
-
-##
-
-
-
-
-
-<!--Github Progess bar-->
-
-## Quick Overview 📝
-    
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
-</a>
-<a href="https://github.com/hackcoderr/github-readme-stats">
- 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
-</a>
-
-
-
-
-<!--footer-->
-
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
-
-
-<div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-
-
-
-</div>  
-  
-
-<br/>  
-
-
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
-
-   
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-
-
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
-
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goyal-aman&label=Profile%20views&color=0e75b6&style=flat" alt="goyal-aman" /> </p>
